@@ -1,3 +1,4 @@
+<img src="https://github.com/LivioReb/ProjetoCalcJs/blob/main/ProjetCalcJS.png"/>
 <h1>Projeto Calculadora em JavaScript</h1>
 
 <p>🧮 Bem-vindo ao repositório do meu projeto de calculadora em JavaScript! Neste projeto, meu objetivo principal é aprender a linguagem JavaScript, enquanto desenvolvo uma calculadora funcional para realizar operações básicas.</p>
